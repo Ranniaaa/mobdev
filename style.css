@@ -1,0 +1,139 @@
+nav{ display: flex;
+color: white;}
+header{ display: flex;}
+.contact{ margin-left: 20;}
+.serviceS{ margin-left: 20;}
+.PORT{ margin-left: 20;}
+.about{ margin-left: 20;}
+.home{ margin-left: 800;}
+.mob{ color: #F50D32;
+margin-left: 500;}
+.btn{ color: white;
+background-color: #F50D32;
+padding: 10 20 10 20;
+box-shadow: #F50D32 10 10 10 10;
+text-shadow: white;}
+.flex{ display: flex;}
+.grid{ display: grid;
+grid-template-columns: 1fr 1fr;
+color: white;
+margin-top: 500;}
+.grid6{ margin-left: 0;
+margin-right: 0;}
+.flex2{ display: flex;
+    margin-left: 500;
+ }
+.box1{ width: 300;
+    color: white;
+    height: 300;
+}
+.box2{ background-color: #2F2F2F;
+width: 300; 
+height: 450;
+margin-left: 20;
+margin-right: 20;
+color: white;}
+.box3{ width: 300;
+color: white;
+height: 300;
+}
+.gridcont{ display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 1fr ;}
+
+.BOX{ display: flex;}
+body{ background-color:#202020;}
+.hi{ color: #F50D32;
+font-size: 20;}
+.front{ color: white;
+font-size: 40;
+font-weight: 0;}
+.lorem{ color: white;
+font-weight: lighter;
+font-size: 20;}
+.div{ margin-left: 500;}
+.img{ margin-left: 120;}
+.NO{ color: white;
+margin-left: 500;}
+
+.grid{ 
+margin-top: 100;
+color: white;}
+.UGH{
+margin-right: 200;}
+.pricing{ color: white;
+margin-left: 730; 
+margin-top: 50;
+margin-bottom: 50;}
+.pri{ margin-left: 150;}
+.br{ margin-left: 50px;
+line-height: 0%;}
+h4{ text-align: center;}
+.images{ padding-left: 120;}
+.DRAHAM{ padding-left: 130;}
+.btn2{ padding: 10 40 10 40 ;
+color: white;
+background-color: transparent; border-color: white;
+margin-left: 50;}
+.btn3{ padding: 10 40 10 40 ;
+color: white;
+background-color: #F50D32;
+border: none;
+margin-left: 50;
+margin-bottom: 70;}
+.selected{ color: white;
+text-align: center;
+margin-top: 100;}
+.grid1{ color: white;}
+.grid2{ color: white;}
+.BOX { color: white;
+margin-left: 500;
+margin-top: 50;
+}
+.box5{ margin-right: 20;
+margin-left: 20;
+text-align: center;}
+.test{ color: white;
+text-align: center;
+padding-top: 100;}
+.box4{ background-color: #2F2F2F;
+height: 400;
+text-align: center;}
+.box5{ background-color: #2F2F2F;}
+.box6{ background-color: #2F2F2F;
+text-align: center;}
+.END{ background-color: #2F2F2F;
+height: 150;
+width: 950;
+margin-top: 100;
+margin-left: 500;
+color: white;}
+.btn8{ margin-top: 50;
+margin-left: 400;
+color: white;
+background-color: #F50D32;}
+.discover{ margin-left: 50;
+margin-top: 30;}
+.FOOTER{ color: white;
+text-align: center;
+font-size: 15;
+line-break: 10;
+margin-top: 100;
+ background-color: #161616 ;
+ height: 300;
+ padding-top: 50;
+}
+.get{ font-weight: bold;
+font-size: 20;}
+.icon{ padding-top: 20;
+padding-bottom: 30;}
+ /* Extra small devices /
+    @media (max-width: 576px) { / ... / } 
+ / Small devices (landscape phones, 576px and up)  /
+    @media (min-width: 576px) and (max-width: 768px) { / ... / } 
+ / Medium devices (tablets, 768px and up)  /
+    @media (min-width: 768px) and (max-width: 992px)  { / ... / } 
+ / Large devices (desktops, 992px and up)  /
+    @media (min-width: 992px) and (max-width: 1200px)  { / ... / } 
+ / Extra large devices (large desktops, 1200px and up)  /
+    @media (min-width: 1200px) { / ... */ 
